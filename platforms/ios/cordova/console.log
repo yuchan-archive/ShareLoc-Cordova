@@ -1,0 +1,175 @@
+2015-02-24 16:11:20.700 ShareLoc[18658:700819] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/76158FF7-26AD-4825-AAB8-F8896276C31D/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:11:21.012 ShareLoc[18658:700819] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:11:21.013 ShareLoc[18658:700819] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:11:21.032 ShareLoc[18658:700819] Unlimited access to network resources
+2015-02-24 16:11:21.042 ShareLoc[18658:700819] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:11:22.798 ShareLoc[18658:700819] Resetting plugins due to page load.
+2015-02-24 16:11:22.894 ShareLoc[18658:700819] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/5EDB83C2-5CC2-43E8-9CDB-93B3E4F9C7A0/ShareLoc.app/www/index.html
+2015-02-24 16:11:22.940 ShareLoc[18658:700819] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:11:23.434 ShareLoc[18658:700819] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:12:36.703 ShareLoc[18766:705666] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/35867383-8567-4602-A2CD-A17C8B3F030E/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:12:36.804 ShareLoc[18766:705666] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:12:36.805 ShareLoc[18766:705666] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:12:36.806 ShareLoc[18766:705666] Unlimited access to network resources
+2015-02-24 16:12:36.809 ShareLoc[18766:705666] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:12:37.070 ShareLoc[18766:705666] Resetting plugins due to page load.
+2015-02-24 16:12:37.119 ShareLoc[18766:705666] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/F4D4F7F1-4403-4A1E-A085-26042AEC28F5/ShareLoc.app/www/index.html
+2015-02-24 16:12:37.146 ShareLoc[18766:705666] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:12:37.276 ShareLoc[18766:705666] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:22:11.308 ShareLoc[18994:726994] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/CB9C8490-E1C3-4029-BDF8-80C6F9682BE2/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:22:11.421 ShareLoc[18994:726994] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:22:11.421 ShareLoc[18994:726994] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:22:11.423 ShareLoc[18994:726994] Unlimited access to network resources
+2015-02-24 16:22:11.425 ShareLoc[18994:726994] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:22:11.721 ShareLoc[18994:726994] Resetting plugins due to page load.
+2015-02-24 16:22:11.761 ShareLoc[18994:726994] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/60C9E491-F768-42AC-B49A-B10729CF99AA/ShareLoc.app/www/index.html
+2015-02-24 16:22:11.807 ShareLoc[18994:726994] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:22:11.890 ShareLoc[18994:726994] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:22:16.061 ShareLoc[18994:726994] THREAD WARNING: ['Notification'] took '51.898926' ms. Plugin should use a background thread.
+2015-02-24 16:27:31.901 ShareLoc[19179:739237] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/5D3C9223-3308-455C-A5B8-D9316A6A1CAC/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:27:31.994 ShareLoc[19179:739237] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:27:31.994 ShareLoc[19179:739237] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:27:31.996 ShareLoc[19179:739237] Unlimited access to network resources
+2015-02-24 16:27:31.998 ShareLoc[19179:739237] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:27:32.269 ShareLoc[19179:739237] Resetting plugins due to page load.
+2015-02-24 16:27:32.341 ShareLoc[19179:739237] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/5C6B8977-3F21-49EA-9427-2454088A98DA/ShareLoc.app/www/index.html
+2015-02-24 16:27:32.384 ShareLoc[19179:739237] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:27:32.525 ShareLoc[19179:739237] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:28:09.571 ShareLoc[19280:740552] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/FBEF73E0-A75B-4D33-8992-874C323602DC/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:28:09.649 ShareLoc[19280:740552] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:28:09.650 ShareLoc[19280:740552] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:28:09.651 ShareLoc[19280:740552] Unlimited access to network resources
+2015-02-24 16:28:09.653 ShareLoc[19280:740552] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:28:09.939 ShareLoc[19280:740552] Resetting plugins due to page load.
+2015-02-24 16:28:09.980 ShareLoc[19280:740552] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/F8139ADC-69C1-4B7A-89F2-5F538D77DE01/ShareLoc.app/www/index.html
+2015-02-24 16:28:10.004 ShareLoc[19280:740552] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:28:10.138 ShareLoc[19280:740552] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:29:43.377 ShareLoc[19377:745162] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/6B9E0917-3F91-4E8C-A55A-21593A7E3891/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:29:43.466 ShareLoc[19377:745162] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:29:43.466 ShareLoc[19377:745162] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:29:43.468 ShareLoc[19377:745162] Unlimited access to network resources
+2015-02-24 16:29:43.471 ShareLoc[19377:745162] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:29:43.751 ShareLoc[19377:745162] Resetting plugins due to page load.
+2015-02-24 16:29:43.786 ShareLoc[19377:745162] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/BBABEF11-734A-47D5-A348-9179B6AB2EC5/ShareLoc.app/www/index.html
+2015-02-24 16:29:43.819 ShareLoc[19377:745162] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:29:43.960 ShareLoc[19377:745162] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:29:44.511 ShareLoc[19377:745162] THREAD WARNING: ['Notification'] took '41.505127' ms. Plugin should use a background thread.
+2015-02-24 16:33:42.930 ShareLoc[19485:755254] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/FEA00DA7-0974-4794-8587-638014D45D8F/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:33:43.022 ShareLoc[19485:755254] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:33:43.022 ShareLoc[19485:755254] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:33:43.024 ShareLoc[19485:755254] Unlimited access to network resources
+2015-02-24 16:33:43.027 ShareLoc[19485:755254] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:33:43.270 ShareLoc[19485:755254] Resetting plugins due to page load.
+2015-02-24 16:33:43.315 ShareLoc[19485:755254] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/C4E5F38E-4440-483D-AF63-BD183CA4C79C/ShareLoc.app/www/index.html
+2015-02-24 16:33:43.337 ShareLoc[19485:755254] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:34:27.740 ShareLoc[19579:756733] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/203600C5-6C82-4E1A-B011-C03DB50C363F/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:34:27.832 ShareLoc[19579:756733] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:34:27.832 ShareLoc[19579:756733] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:34:27.834 ShareLoc[19579:756733] Unlimited access to network resources
+2015-02-24 16:34:27.836 ShareLoc[19579:756733] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:34:28.081 ShareLoc[19579:756733] Resetting plugins due to page load.
+2015-02-24 16:34:28.122 ShareLoc[19579:756733] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/C7251D61-05C4-40F0-9029-2586CA8AA54F/ShareLoc.app/www/index.html
+2015-02-24 16:34:28.150 ShareLoc[19579:756733] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:36:55.792 ShareLoc[19678:760350] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/BCB01012-D75F-4138-99FD-4640B2C4F55C/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:36:55.880 ShareLoc[19678:760350] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:36:55.881 ShareLoc[19678:760350] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:36:55.882 ShareLoc[19678:760350] Unlimited access to network resources
+2015-02-24 16:36:55.884 ShareLoc[19678:760350] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:36:56.131 ShareLoc[19678:760350] Resetting plugins due to page load.
+2015-02-24 16:36:56.172 ShareLoc[19678:760350] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/19114E63-9D9E-49EE-B931-E3082BDABBE9/ShareLoc.app/www/index.html
+2015-02-24 16:36:56.192 ShareLoc[19678:760350] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:39:15.869 ShareLoc[19775:765491] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/269CF5EF-D0A5-4E55-97E4-58D4F06A1A8C/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:39:15.957 ShareLoc[19775:765491] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:39:15.958 ShareLoc[19775:765491] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:39:15.959 ShareLoc[19775:765491] Unlimited access to network resources
+2015-02-24 16:39:15.961 ShareLoc[19775:765491] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:39:16.206 ShareLoc[19775:765491] Resetting plugins due to page load.
+2015-02-24 16:39:16.249 ShareLoc[19775:765491] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/DA8F366E-D5F8-4E87-9A46-B4A2BE988C48/ShareLoc.app/www/index.html
+2015-02-24 16:39:16.286 ShareLoc[19775:765491] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-02-24 16:39:16.339 ShareLoc[19775:765491] THREAD WARNING: ['Notification'] took '50.363281' ms. Plugin should use a background thread.
+2015-02-24 16:39:16.536 ShareLoc[19775:765491] Google Maps SDK for iOS version: 1.9.14591.0
+2015-02-24 16:41:14.173 ShareLoc[19874:769817] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Data/Application/EE31C447-D69A-4DBB-833E-4DD8A51F85FD/Library/Cookies/Cookies.binarycookies
+2015-02-24 16:41:14.259 ShareLoc[19874:769817] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 16:41:14.259 ShareLoc[19874:769817] Multi-tasking -> Device: YES, App: YES
+2015-02-24 16:41:14.260 ShareLoc[19874:769817] Unlimited access to network resources
+2015-02-24 16:41:14.263 ShareLoc[19874:769817] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 16:41:14.505 ShareLoc[19874:769817] Resetting plugins due to page load.
+2015-02-24 16:41:14.548 ShareLoc[19874:769817] Finished load of: file:///Users/yusuke/Library/Developer/CoreSimulator/Devices/0D59C0E8-B48D-42EE-9F75-E462DBFFC414/data/Containers/Bundle/Application/BAD105D8-2277-4F5B-A81D-06F0983E6D71/ShareLoc.app/www/index.html
+2015-02-24 16:41:14.570 ShareLoc[19874:769817] This app uses phonegap-googlemaps-plugin version 1.2.4
